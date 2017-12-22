@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.rtslabs.t3.login</string>
+	<string name="app_name">t3</string>
+	<string name="app_package">com.rtslabs.t3</string>
+</resources>
